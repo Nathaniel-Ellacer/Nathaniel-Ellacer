@@ -6,9 +6,11 @@ Education📚
 
 Bachelor of Science in Computer Science Student New Era University
 
+
 Certifications🏆 
 
 https://courses.cognitiveclass.ai/certificates/350c740ec8f448f6829765dbe20f3b86
+
 
 Skills ⭐ 
 
