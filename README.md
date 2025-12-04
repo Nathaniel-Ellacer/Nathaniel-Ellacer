@@ -4,7 +4,7 @@ My name is Nathaniel Ashley Ellacer
 
 Education📚 
 
-Bachelor of Science in Computer Science Student New Era University
+Bachelor of Science in Computer Science Student, New Era University
 
 
 Certifications🏆 
