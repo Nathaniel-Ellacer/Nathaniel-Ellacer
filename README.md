@@ -1,10 +1,22 @@
-## Hi there 👋
+
 
 My name is Nathaniel Ashley Ellacer
 
-Education📚 
 
-Bachelor of Science in Computer Science Student, New Era University
+## Education 
+
+| Degree / Program | Institution | Status / Timeline |
+| :--- | :--- | :--- |
+| **Bachelor of Science in Computer Science** | New Era University | August 2024 – Present |
+
+## Skills 
+
+| Category | Skills |
+| :--- | :--- |
+| **Programming Languages** | Java, SQL |
+| **Web Development** | HTML, CSS |
+| **Tools & Technologies** | GitHub, VS Code, Microsoft Office |
+| **Soft Skills** | Problem-Solving, Teamwork, Adaptability, Attention to Detail |
 
 
 | Certificate | Issued By | Month |
@@ -13,10 +25,3 @@ Bachelor of Science in Computer Science Student, New Era University
 | [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD04B4E0FA1E965ED27D1D37CD25A6DC74387694D5E44FF436019E2C1AA68336) | Oracle University | December 2025 |
 | [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6C9ACA671D1BAD45FB91F226BB30D6DB8F97DCCE5C27EEB335E52B9A176D6B5B) | Oracle University | December 2025 |
 
-Skills ⭐ 
-
-Programming Languages: Java, SQL 
-
-Web Development: HTML, CSS Tools & Technologies: GitHub, VS Code, Microsoft Office
-
-Skills: Problem-Solving, Teamwork, Adaptability, Attention to Detail
