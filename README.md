@@ -1,5 +1,5 @@
 
-# Hi there, I'm Nathaniel Ashley Ellacer! 👋
+# Hi there, I'm Nathaniel Ashley Ellacer! 
 
 ### 📊 Aspiring Data Analyst | 👥 Student Leader
 
