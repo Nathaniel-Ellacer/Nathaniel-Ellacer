@@ -31,4 +31,5 @@ Motivated data analyst and student leader with a strong foundation in statistica
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/350c740ec8f448f6829765dbe20f3b86) | Cognitive Class (IBM) | November 2025 |
 | [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD04B4E0FA1E965ED27D1D37CD25A6DC74387694D5E44FF436019E2C1AA68336) | Oracle University | December 2025 |
 | [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6C9ACA671D1BAD45FB91F226BB30D6DB8F97DCCE5C27EEB335E52B9A176D6B5B) | Oracle University | December 2025 |
+| [Excel Dashboard for Beginners](https://simpli-web.app.link/e/pJnBHV4zT5b) | Simplilearn | August 2026 |
 
