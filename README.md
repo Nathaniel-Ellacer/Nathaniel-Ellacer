@@ -1,6 +1,9 @@
 
+# Hi there, I'm Nathaniel Ashley Ellacer! 👋
 
-My name is Nathaniel Ashley Ellacer
+### 📊 Aspiring Data Analyst | 👥 Student Leader
+
+Motivated data analyst and student leader with a strong foundation in statistical analysis, data visualization, and predictive modeling. I have a proven ability to guide project teams, streamline workflows, and translate complex data sets into actionable strategies through effective communication and collaborative leadership.
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nathanielashley.thampson)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NathanielEllacer)
