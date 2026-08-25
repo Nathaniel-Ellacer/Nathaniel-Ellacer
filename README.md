@@ -1,7 +1,8 @@
 
 
 My name is Nathaniel Ashley Ellacer
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nathanielashley.thampson)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NathanielEllacer)
 
 ## Education 
 
@@ -18,6 +19,7 @@ My name is Nathaniel Ashley Ellacer
 | **Tools & Technologies** | GitHub, VS Code, Microsoft Office |
 | **Soft Skills** | Problem-Solving, Teamwork, Adaptability, Attention to Detail |
 
+## Certificates
 
 | Certificate | Issued By | Month |
 | :--- | :--- | :--- |
